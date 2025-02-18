@@ -4,4 +4,3 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 ![CI](https://github.com/maxter9595/ahj-homeworks-3-2/actions/workflows/web.yml/badge.svg)
-
